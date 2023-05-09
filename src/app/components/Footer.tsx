@@ -1,3 +1,7 @@
 export default function Footer() {
-  return <p>{"it's my blog | All Right Reserved."}</p>;
+  return (
+    <p className="bg-slate-900 text-white py-2 text-sm text-center">
+      {"it's my blog | All Right Reserved."}
+    </p>
+  );
 }
