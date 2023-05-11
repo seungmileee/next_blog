@@ -1,5 +1,4 @@
 import { getMayLikePosts } from "@/service/post";
-import PostCard from "./PostCard";
 import PostCarousel from "./PostCarousel";
 
 export default async function YouMayLike() {
